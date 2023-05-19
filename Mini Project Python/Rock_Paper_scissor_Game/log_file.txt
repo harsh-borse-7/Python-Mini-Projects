@@ -1,0 +1,33 @@
+Hello HB, All the best !!!
++++++++++++++++++++++++++++++ GAME NUMBER 1 +++++++++++++++++++++++++++++
+Computer Score : 0
+HB's Score : 0
+^^^^^^^^^^^^^^^^^^^^^ Round 1 ^^^^^^^^^^^^^^^^^^^^^
+You Select: Paper
+Computer Select: Scissor
+
+Round 1 Goes to Computer Side.
+
+Computer Score : 1
+HB's Score : 0
+^^^^^^^^^^^^^^^^^^^^^ Round 2 ^^^^^^^^^^^^^^^^^^^^^
+You Select: Rock
+Computer Select: Rock
+
+Round 2 is Tie: 
+
+Computer Score : 1
+HB's Score : 0
+^^^^^^^^^^^^^^^^^^^^^ Round 3 ^^^^^^^^^^^^^^^^^^^^^
+You Select: Scissor
+Computer Select: Scissor
+
+Round 3 is Tie: 
+
+***************Final Score*************** 
+Computer Score : 1
+HB's Score : 0
+
+Sorry Buddy HB, You lost the game
+
+

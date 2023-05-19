@@ -1,0 +1,6 @@
+The Random Number is : 2
+
+You Guessed :5
+You Guessed :3
+You Guessed :1
+Right !!!The number is 2 You guessed in 4 guesses
